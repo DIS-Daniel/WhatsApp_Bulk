@@ -166,7 +166,7 @@ st.title("ESSERRI Brand Group — Bulk WhatsApp Sender")
 
 st.markdown("""
 <style>
-.stApp { background-color: #607D8B; color: white; }
+.stApp { background-color: #607D8B; color: black; }
 </style>
 """, unsafe_allow_html=True)
 
