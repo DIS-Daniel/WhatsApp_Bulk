@@ -162,7 +162,7 @@ async def bulk_send(contacts: List[Dict[str, Any]],
 # Streamlit UI
 # --------------------------
 st.set_page_config(page_title="ESSERRI Brand Group", layout="wide")
-st.title("ESSERRI Brand Group — Bulk WhatsApp Sender")
+st.title("ESSERRI Brand Group — Mass Marketing Tool")
 
 st.markdown("""
 <style>
